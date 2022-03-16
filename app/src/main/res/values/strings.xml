@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BluetoothChat</string>
+    <string name="bluetooth_messages">Bluetooth Messages</string>
+    <string name="send">Send</string>
+    <string name="send_btn_label">send</string>
+    <string name="search_devices">search devices</string>
+    <string name="enable_bluetooth">enable bluetooth</string>
+    <string name="paired_devices">Paired Devices</string>
+    <string name="available_devices">Available Devices</string>
+    <string name="scan_devices">Scan Devices</string>
+</resources>
